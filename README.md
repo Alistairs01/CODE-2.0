@@ -45,5 +45,5 @@ code .
   ##### Acknowledgement and Authors 
   - I thank my TM Nancy for her support and guidance
 
-###### LICENSE
-.We are licensed under [MIT]
+##### LICENSE
+.We are licensed under (MIT)
